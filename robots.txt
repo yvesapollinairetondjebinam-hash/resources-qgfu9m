@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yvesapollinairetondjebinam-hash.github.io/resources-qgfu9m/sitemap.xml
